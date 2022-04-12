@@ -2,7 +2,7 @@
   "Ads": [
     {
       "more_app"                  : "1",
-      "select_main_ads"           : "ADMOBx",
+      "select_main_ads"           : "ADMOB",
       "select_backup_ads"         : "APPLOVIN-Mx",
 
       "main_ads_intertitial"      : "YOUR_PLACEMENT_ID",
