@@ -3,10 +3,10 @@
     {
       "more_app"                  : "1",
       "select_main_ads"           : "ADMOB",
-      "select_backup_ads"         : "ADMOB",
+      "select_backup_ads"         : "APPLOVIN-M",
 
-      "main_ads_intertitial"      : "YOUR_PLACEMENT_ID",
-      "main_ads_native"           : "YOUR_PLACEMENT_ID",
+      "main_ads_intertitial"      : "ca-app-pub-9305765722219782/8640385657",
+      "main_ads_native"           : "ca-app-pub-9305765722219782/6014222319",
 
       "backup_ads_intertitial"    : "qwerty1234",
       "backup_ads_native"         : "qwerty1234",
