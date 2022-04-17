@@ -2,11 +2,11 @@
   "Ads": [
     {
       "more_app"                  : "1",
-      "select_main_ads"           : "ADMOB",
-      "select_backup_ads"         : "APPLOVIN-D",
+      "select_main_ads"           : "IRON",
+      "select_backup_ads"         : "IRON",
 
-      "main_ads_intertitial"      : "ca-app-pub-9305765722219782/8330158800",
-      "main_ads_native"           : "ca-app-pub-9305765722219782/7017077136",
+      "main_ads_intertitial"      : "ca-app-pub-9305765722219782/8281217023",
+      "main_ads_native"           : "ca-app-pub-9305765722219782/5655053683",
 
       "backup_ads_intertitial"    : "qwerty1234",
       "backup_ads_native"         : "qwerty1234",
