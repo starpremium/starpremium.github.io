@@ -16,11 +16,11 @@
 
       "interval_intertitial"      : 5,
 
-      "high_paying_keyword_1"     : "life insurance",
-      "high_paying_keyword_2"     : "health insurance",
-      "high_paying_keyword_3"     : "education insurance",
-      "high_paying_keyword_4"     : "architect",
-      "high_paying_keyword_5"     : "car insurance",
+      "high_paying_keyword_1"     : "",
+      "high_paying_keyword_2"     : "",
+      "high_paying_keyword_3"     : "",
+      "high_paying_keyword_4"     : "",
+      "high_paying_keyword_5"     : "",
 
       "warna_native"              : "#05eccc68",
       "line_atau_polos"           : "1",

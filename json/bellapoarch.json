@@ -12,8 +12,8 @@
       "open_ads"                  : "YOUR_PLACEMENT_ID",
 
       "backup_ads_banner"         : "YOUR_PLACEMENT_ID",
-      "backup_ads_intertitial"    : "YOUR_PLACEMENT_ID",
-      "backup_ads_native"         : "YOUR_PLACEMENT_ID",
+      "backup_ads_intertitial"    : "03c5456e6986bb60",
+      "backup_ads_native"         : "90faaf5071b5d8a8",
       
       "initialize_sdk"            : "",
       "initialize_sdk_backup_ads" : "",
