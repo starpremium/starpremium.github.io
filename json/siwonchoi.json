@@ -5,9 +5,13 @@
       "select_main_ads"           : "ADMOB",
       "select_backup_ads"         : "APPLOVIN-M",
 
+      "main_ads_banner"           : "YOUR_PLACEMENT_ID",
       "main_ads_intertitial"      : "ca-app-pub-9305765722219782/8640385657",
       "main_ads_native"           : "ca-app-pub-9305765722219782/6014222319",
 
+      "open_ads"                  : "YOUR_PLACEMENT_ID",
+
+      "backup_ads_banner"         : "YOUR_PLACEMENT_ID",
       "backup_ads_intertitial"    : "d1516e4dc7a2acb3",
       "backup_ads_native"         : "4c590fa77142f739",
       
@@ -23,7 +27,7 @@
       "high_paying_keyword_5"     : "",
 
       "warna_native"              : "#05eccc68",
-      "line_atau_polos"           : "1",
+      "line_atau_polos"           : "0",
       "size_native"               : "2",
 
       "status_app": "0",
