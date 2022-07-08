@@ -6,6 +6,86 @@
       "title":"More Apps",
       "image":"https://starpremium.github.io/image/semua.webp",
       "link":"https://play.google.com/store/apps/developer?id=Star+Premium"
+    },
+    {
+      "id":11,
+      "title":"JHope BTS",
+      "image":"https://starpremium.github.io/image/btsjhopecall.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.btsjhopecall"
+    },
+    {
+      "id":12,
+      "title":"Jimin BTS",
+      "image":"https://starpremium.github.io/image/btsjimincall.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.btsjimincall"
+    },
+    {
+      "id":13,
+      "title":"Jin BTS",
+      "image":"https://starpremium.github.io/image/btsjincall.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.btsjincall"
+    },
+    {
+      "id":14,
+      "title":"RM BTS",
+      "image":"https://starpremium.github.io/image/btsrmnamjooncall.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.btsrmnamjooncall"
+    },
+    {
+      "id":15,
+      "title":"Suga BTS",
+      "image":"https://starpremium.github.io/image/btssugacall.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.btssugacall"
+    },
+    {
+      "id":16,
+      "title":"V BTS",
+      "image":"https://starpremium.github.io/image/btsvtaehyungcall.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.btsvtaehyungcall"
+    },
+
+
+    {
+      "id":21,
+      "title":"Siwon Choi",
+      "image":"https://starpremium.github.io/image/siwonchoi.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.siwonchoi"
+    },
+    {
+      "id":31,
+      "title":"Addison Rae",
+      "image":"https://starpremium.github.io/image/addisonrae.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.addisonrae"
+    },
+    {
+      "id":32,
+      "title":"Bella Poarch",
+      "image":"https://starpremium.github.io/image/bellapoarch.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.bellapoarch"
+    },
+    {
+      "id":41,
+      "title":"Call Sakura",
+      "image":"https://starpremium.github.io/image/sakuraschoolsimulatorcallingyou.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.sakuraschoolsimulatorcallingyou"
+    },
+    {
+      "id":42,
+      "title":"Keyboard Sakura",
+      "image":"https://starpremium.github.io/image/sakuraschoolsimulatorkeyboardbts.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.sakuraschoolsimulatorkeyboardbts"
+    },
+    {
+      "id":43,
+      "title":"PROPS Sakura",
+      "image":"https://starpremium.github.io/image/sakuraschoolsimulatorpropsidbts.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.sakuraschoolsimulatorpropsidbts"
+    },
+    {
+      "id":44,
+      "title":"Wahyu Kadeo",
+      "image":"https://starpremium.github.io/image/wahyukadeo.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.wahyukadeo"
     }
   ]
 
